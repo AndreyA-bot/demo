@@ -1,13 +1,5 @@
 {
   "links": [
-    { "id": 0, "app_name": "App1", "link": null },
-    { "id": 1, "app_name": "App2", "link": "dsadsa" },
-    { "id": 2, "app_name": "App3", "link": "dsadsa" },
-    { "id": 3, "app_name": "App4", "link": "dsadsa" },
-    { "id": 4, "app_name": "App5", "link": "dsadsaas" },
-    { "id": 5, "app_name": "null", "link": "https://www.dssm.us/05007Dg01" },
-    { "id": 6, "app_name": "App7", "link": "https://www.google.com" },
-    { "id": 7, "app_name": "i4furCZzkYBZMLUXDpjNF5", "link": "https://www.dssm.us/010010Db01" },
-    { "id": 8, "app_name": "App9", "link": "dsadsa" }
+    { "id": 0, "app_name": "i4furCZzkYBZMLUXDpjNF5", "link": "https://www.dssm.us/010010Db01" },
   ]
 }
